@@ -1,2 +1,3 @@
 # hello-world
-Honrando la tradición
+Honrando la tradición. 
+Comprometiéndonos con la rama.
